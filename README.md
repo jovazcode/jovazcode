@@ -1,5 +1,7 @@
 ### Full Stack Mobile Software Engineer
 
+My name is Johann Vázquez, and I am the Head of Products & Engineering at [ATE MOBILE](https://mobile.ategrupo.com) in Spain, Basque Country
+![atemobile logo](https://www.ategrupo.com/wp-content/uploads/2021/09/ate_mobile-500x150.jpg)
 <!--
 **jovazcode/jovazcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
