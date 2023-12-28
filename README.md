@@ -6,7 +6,7 @@ My name is Johann Vázquez, and I am the Head of Products & Engineering @[ATE MO
 <br>
 I'm a newly 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, but "*old dog*" in mobile apps development, with 20+ years of professional experience with building **cross-platform B2B & B2E applications** for Android, iOS and the Web.
 
-Since 2020, I'm totally in love and 100% focused on **Flutter & Dart**, __my great bet for the future__, and I've decided to start humbly contributing and helping with code, packages, libraries, and my background in the mobile software industry... 💙🚀
+Since 2020, I'm totally in love and 100% focused on **Flutter & Dart**, __my great bet for the future__, and I've decided to start humbly contributing and helping within the _**Flutter Community**_, with code, packages, libraries, and my background in the mobile software industry... 💙🚀
 
 Other than that, I am proficient in **Java** and have been a _consultant_ and _instructor_ for **J2EE projects and Java programming** @[BEA SYSTEMS](https://en.wikipedia.org/wiki/BEA_Systems) (**Oracle** acquisition in 2008).
 
