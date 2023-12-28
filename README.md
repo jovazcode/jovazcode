@@ -13,7 +13,7 @@ Other than that, I am proficient in **Java** and have been a _consultant_ and _i
 **Talking about Personal Stuffs**
 
 - 🛑 I'm not a Google Expert | nor a Content Creator | nor a Google Advocate
-- 💻 I'm a Mobile Apps Creator | Full Stack Engineer 🛠 | Software Instructor 🤓 | Tech Business Dreamer 💸
+- 💻 I'm a Mobile Apps Creator 📱 Full Stack Engineer 🛠 Software Instructor 🤓 Tech Business Dreamer 💸
 - 💙 I do believe Flutter is the new and real "*Write Once Run Everywhere*", the old Java motto!! Remember it?! 🤔
 - 🇫🇷 I am from France but I have been living in Spain 🇪🇸 for 20+ years
 - 💬 Ask me about anything, I'll be happy to help you!
