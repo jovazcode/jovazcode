@@ -1,7 +1,30 @@
 ### Full Stack Mobile Software Engineer
 
-My name is Johann Vázquez, and I am the Head of Products & Engineering at [ATE MOBILE](https://mobile.ategrupo.com) in Spain, Basque Country
-![atemobile logo](https://www.ategrupo.com/wp-content/uploads/2021/09/ate_mobile-500x150.jpg)
+My name is Johann Vázquez, and I am the Head of Products & Engineering @[ATE MOBILE][atemobile_link] in Spain, Basque Country
+<br><br>
+[![atemobile logo](https://www.ategrupo.com/wp-content/uploads/2021/09/ate_mobile-500x150.jpg)][atemobile_link]
+<br>
+I'm a newly 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, but proficient in mobile apps development, with 20+ years of professional experience with building **cross-platform B2B & B2E applications** for Android, iOS and the Web.
+
+I'm since 2020 totally in love and 100% focused on **Flutter** & **Dart**, my big bet for the future!! 💙🚀 And I have decided to start humbly contributing and helping with my code, packages, libraries, templates, and all my background in the mobile software industry...
+
+**Talking about Personal Stuffs**
+
+- 🛑 I'm not a Google Expert | nor a Content Creator | nor a Google Advocate
+- 💻 I'm a Mobile Apps Creator | Full Stack Engineer 🛠 | Software Instructor 🤓 | Tech Business Dreamer 💸
+- 💙 I do believe Flutter is the new and real "*Write Once Run Everywhere*", the old Java motto!! Remember it?! 🤔
+- 🇫🇷 I am from France but I have been living in Spain 🇪🇸 for 20+ years
+- 💬 Ask me about anything, I'll be happy to help you!
+- ⚡ Fun fact: I've been developping mobile apps with "*Jurassic-technos*" like **J2ME**, **PersonalJava**, **BlackBerry** SDK and more recently even **Sencha Touch** and **Cordova**!!
+
+Other than that, I am proficient in **Java** and have been a _consultant_ and _instructor_ for **J2EE projects and Java programming** @[BEA SYSTEMS](https://en.wikipedia.org/wiki/BEA_Systems) (**Oracle** acquisition in 2008).
+
+**Packages on Pub Dev** 
+
+- Evented Bloc: [evented_bloc](https://pub.dev/packages/evented_bloc)
+- Flutter Evented Bloc: [flutter_evented_bloc](https://pub.dev/packages/flutter_evented_bloc)
+
+[atemobile_link]: https://mobile.ategrupo.com
 <!--
 **jovazcode/jovazcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
