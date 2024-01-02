@@ -8,7 +8,7 @@ Me llamo Johann Vázquez, y soy el Responsable Técnico & Productos @[ATE MOBILE
 <br><br>
 [![atemobile logo](https://www.ategrupo.com/wp-content/uploads/2021/09/ate_mobile-500x150.jpg)][atemobile_link]
 <br>
-Soy un relativamente recién llegado como **Desarrollador Flutter**, pero "*perro viejo*" en el desarrollo de aplicaciones móviles, con más de 20 años de experiencia profesional creando **aplicaciones B2B y B2E multiplataforma** para Android, iOS y el canal Web.
+Soy relativamente recién llegado como **Desarrollador Flutter**, pero "*perro viejo*" en el desarrollo de aplicaciones móviles, con más de 20 años de experiencia profesional creando **aplicaciones B2B y B2E multiplataforma** para Android, iOS y el canal Web.
 
 En 2020 me enamoré de **Flutter & Dart**, y desde entonces tengo el foco puesto en ello y es __mi gran apuesta de futuro__; asimismo, además de mis actividades laborales, he decidido comenzar humildemente a contribuir yo también, y a ayudar y apoyar la _**Comunidad Flutter**_ , con código, paquetes, bibliotecas y lo que sea que se derive de mi experiencia en esta industria del software móvil... 💙🚀
 
