@@ -28,4 +28,9 @@ Aparte de eso, soy experto en **Java** y he sido _consultor_ e _instructor_ para
 - Evented Bloc: [evented_bloc](https://pub.dev/packages/evented_bloc)
 - Flutter Evented Bloc: [flutter_evented_bloc](https://pub.dev/packages/flutter_evented_bloc)
 
+**Mis Últimos Artículos en Medium**
+
+[![My Medium story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@jovazcode&index=0&source=medium)](#)
+
+
 [atemobile_link]: https://mobile.ategrupo.com
