@@ -12,7 +12,7 @@ I'm a relatively newcomer as a 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 𝗗𝗲𝘃𝗲𝗹
 
 Since 2020, I'm totally in love and 100% focused on **Flutter & Dart**, __my great bet for the future__, and I've decided to start humbly contributing and helping within the _**Flutter Community**_, with code, packages, libraries, and my background in the mobile software industry... 💙🚀
 
-Other than that, I am proficient in **Java** and have been a _consultant_ and _instructor_ for **J2EE projects and Java programming** @[BEA SYSTEMS](https://en.wikipedia.org/wiki/BEA_Systems) (**Oracle** acquisition in 2008).
+Other than that, I am proficient in **Java** and **Design Patterns**, and have been a _consultant_ and _instructor_ for **J2EE projects and Java programming** @[BEA SYSTEMS](https://en.wikipedia.org/wiki/BEA_Systems) (**Oracle** acquisition in 2008).
 
 **Talking about Personal Stuffs**
 
