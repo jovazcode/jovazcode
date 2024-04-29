@@ -25,6 +25,7 @@ A part ça, je suis expert en techno **Java** et j'ai été _consultant_ et _ins
 
 **Packages sur Pub Dev** 
 
+- RiveBloc: [rive_bloc](https://pub.dev/packages/rive_bloc)
 - Evented Bloc: [evented_bloc](https://pub.dev/packages/evented_bloc)
 - Flutter Evented Bloc: [flutter_evented_bloc](https://pub.dev/packages/flutter_evented_bloc)
 
