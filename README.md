@@ -25,6 +25,7 @@ Other than that, I am proficient in **Java** and **Design Patterns**, and have b
 
 **Packages on Pub Dev** 
 
+- RiveBloc: [rive_bloc](https://pub.dev/packages/rive_bloc)
 - Evented Bloc: [evented_bloc](https://pub.dev/packages/evented_bloc)
 - Flutter Evented Bloc: [flutter_evented_bloc](https://pub.dev/packages/flutter_evented_bloc)
 
